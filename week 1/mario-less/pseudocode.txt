@@ -1,0 +1,9 @@
+height
+
+do
+ask for height
+while(height>0 and <9)
+
+for(i = 1, i<=height, i++){
+    print
+}

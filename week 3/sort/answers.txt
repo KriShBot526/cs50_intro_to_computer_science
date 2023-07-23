@@ -1,0 +1,11 @@
+sort1 uses: Bubble Sort
+
+How do you know?: It takes similar times for both of the reversed and sorted functions
+
+sort2 uses: Merge Sort
+
+How do you know?: The time taken by reversed50000 file is 1.182s which is the least and as per the definition of time notation of merge sort it takes the least time.
+
+sort3 uses: Selection Sort
+
+How do you know?:  It takes almost the same time as sort1 file for reversed files but when it comes to sorted file it takes less time than sort1
