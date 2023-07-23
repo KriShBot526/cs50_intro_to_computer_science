@@ -1,4 +1,4 @@
-## Harvard CS50 Intro to Computer Science
+# Harvard CS50 Intro to Computer Science
 
 This repository contains the code for Harvard CS50 Intro to Computer Science. The code is written in multiple programming languages, including C, Python, HTML, CSS, JS, SQL, and Flask. It covers the following topics:
 
