@@ -2,10 +2,10 @@
 
 This repository contains the code for Harvard CS50 Intro to Computer Science. The code is written in multiple programming languages, including C, Python, HTML, CSS, JS, SQL, and Flask. It covers the following topics:
 
-Problem sets: The code for all 9 problem sets from the CS50 course.\n
-Labs: The code for all 9 labs from the CS50 course.\n
-Extras: Additional code, such as solutions to the problem sets and labs, and code for other projects.\n
-The code is well-documented and easy to follow. It is also tested to ensure that it works correctly.\n
+Problem sets: The code for all 9 problem sets from the CS50 course.  
+Labs: The code for all 9 labs from the CS50 course.  
+Extras: Additional code, such as solutions to the problem sets and labs, and code for other projects.  
+The code is well-documented and easy to follow. It is also tested to ensure that it works correctly.
 
 This repository is provided for educational purposes only. The code is not intended to be copied and pasted. If you are interested in learning how to code, I encourage you to use the code in this repository as a reference. However, please do not copy and paste the code without understanding how it works. This will not help you learn how to code, and it may even lead to you making mistakes.
 
